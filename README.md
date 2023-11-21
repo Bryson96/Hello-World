@@ -2,4 +2,4 @@
 
 ### This project is a demo with following features:
 - It has a readme file
-- - That's about it. 
+- That's about it. 
